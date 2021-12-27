@@ -3,7 +3,6 @@
 
 I'm **心源译码**.
 
-Here are some ideas to get you started:
 
 - 🔭 [Blog](https://www.yuque.com/xyym)
 
